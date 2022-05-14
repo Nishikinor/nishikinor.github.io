@@ -27,10 +27,10 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: Montserrat, system-ui, -apple-system, BlinkMacSystemFont,
+  --fontFamily-sans: Arial, sans-serif, system-ui,-apple-system, BlinkMacSystemFont, 
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
+  --fontFamily-serif: "Helvetica Neue", Arial, STHeiti,"Microsoft YaHei",sans-serif,Helvetica,"DroidSansFallback",FreeSans,Arimo,"wenquanyi micro hei","Hiragino Sans GB","Hiragino Sans GB W3",
     Times, serif;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
@@ -39,7 +39,7 @@
   --fontWeight-semibold: 600;
   --fontWeight-bold: 700;
   --fontWeight-extrabold: 800;
-  --fontWeight-black: 900;
+  --fontWeight-black: 700;
   --fontSize-root: 16px;
   --lineHeight-none: 1;
   --lineHeight-tight: 1.1;
