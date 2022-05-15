@@ -46,6 +46,8 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <br />
+          A developer dedicated to devops and security.
         </p>
       )}
     </div>

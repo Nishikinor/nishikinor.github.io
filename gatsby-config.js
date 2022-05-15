@@ -4,7 +4,7 @@ module.exports = {
     title: `Nishikinor Blog`,
     author: {
       name: `nishikinor`,
-      summary: `who lives and works in building useful things.`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
